@@ -1,0 +1,6 @@
+{
+"name":"bob",
+"age":22,
+"man":true,
+"money":10000.22
+}

@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\Administrator\\Downloads\\include\\single_include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "W:/env/mingw64/bin/g++.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "${default}",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}

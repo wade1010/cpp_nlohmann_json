@@ -1,0 +1,7 @@
+{
+    "age": 22,
+    "man": true,
+    "money": 10000.22,
+    "name": "bob",
+    "new_name": "new name"
+}
